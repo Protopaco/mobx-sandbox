@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #333333;
+    font-family: 'Poppins', sans-serif;
+}
+
+firstName{
+    color: #e1f4f3;
+    font-weight: 300;
+    font-size: 2em
+    padding: 2px;
+
+}
+
+.lastName {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 3em;
+    padding: 5px;
+}
+
+hr{
+    border: 1px solid #706c61;
+    max-width: 200px;
+    text-align: justify;
+
+}
